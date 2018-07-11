@@ -1,2 +1,2 @@
-# coimbatorecarclub.github.io
+# coimbatorecarrental.github.io
 coimbatorecarrental website
