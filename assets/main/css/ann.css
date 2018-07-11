@@ -1,0 +1,64 @@
+.text-trfrm{
+	text-transform: uppercase;
+}
+.list-cars{
+	margin: 10px 0px;
+}
+.type-item{
+	float: right;
+}
+
+.popular_style{
+	width: 88px;
+	height: 58px;
+}
+.blog_detail{
+	width: 925px;
+	height: 345px;
+}
+.fleet_detailimg{
+	width: 819px;
+	height: 475px;
+}
+.cmmnt_profile{
+	width:47px;
+	height:47px;
+
+}
+
+.mymrg-trip{
+	margin-bottom: 100px;
+}
+
+.inner-trip{
+	padding: 50px 0px 25px 0px;
+}
+.myul li a{
+	color: #88949b;
+}
+.mcnt{
+	color: #88949b;
+}
+.item-search{
+	width: 30%;
+}
+.eco-clr{
+	color: #5a6466;
+}
+.lax-clr{
+	color: #f79b09;
+}
+.price-rate{
+	float: right;
+	padding-right: 12px;
+}
+.price-rate-p{
+	padding-right: 12px;
+}
+.price i{
+	padding-right: 3px;
+}
+@media (max-width: 480px) {
+
+
+  }
